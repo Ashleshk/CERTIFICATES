@@ -27,7 +27,6 @@ All Certificate Achieved Till 2020
 4. Performing Network, Path, and Text Analysis in SAS Visual Analytics
 
 ## Udemy
- ###CCNA Certification
 1. The Complete Networking Fundamental
 2. Cisco CCNA-ICND1Complete Course
 3. Cisco Packet Tracer UltimateLABS
