@@ -1,9 +1,9 @@
 # CERTIFICATES
 All Certificate Achieved Till 2020
 
-## Cambridge Certifiaction Authority
-1. JAVA LEVEL -1      --5th JAN 2019
-2. JAVA LEVEL -2      --10th JAN 2019
+## Cambridge Certification Authority
+1. JAVA LEVEL -1      
+2. JAVA LEVEL -2      
 
 ## Deep Learning Specilization
 1. Neural Network And Deep Learning                                                   --26 JAN 2020
@@ -22,7 +22,7 @@ All Certificate Achieved Till 2020
 
 ## SAS Visual Analytics Professional Certification
 1.
-2.
+2. s
 3. 
 4. Using Data for Geographic Mapping & Forecasting in SAS Visual Analytics            --15 APR 2020
 ## Udemy
