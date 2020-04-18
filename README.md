@@ -23,6 +23,6 @@ All Certificate Achieved Till 2020
 ## SAS Visual Analytics Professional Certification
 1.
 2.
-3.
+3. 
 4. Using Data for Geographic Mapping & Forecasting in SAS Visual Analytics            --15 APR 2020
 ## Udemy
