@@ -13,16 +13,25 @@ All Certificate Achieved Till 2020
 2. Cloud Computing And Distributed Systems                                            
 
 ## Python Specilzation
-1. Getting Started with Python                                                        
-2. Python Data Structure                                                              
-3. Using Python to Access Web Data                                                    
-5. Capstone: Retriving, Processing and Visualizing Data In Python                     
+1. **Getting Started with Python**                                                        
+2. **Python Data Structure**                                                  
+3. **Using Python to Access Web Data**  
+4. **Using Databases with Python**                                       
+5. **Capstone: Retriving, Processing and Visualizing Data In Python** + **Honor Certificate**                 
+
+## SAS Programmer Profeesional Certificate
+1. **Getting Started with SAS programming**
+2. **Advanced SAS Programming**
+3. **Practical SAS Programming and Certification Review**
+4. **SAS Programmer** -Specilization Certificate
 
 ## SAS Visual Analytics Professional Certification
-1. Getting Started with SAS Visual Analtics
-2. Data Analysis and Reporting in SAS Visual Analytics
-3. Using Data for Geographic Mapping & Forecasting in SAS Visual Analytics            
-4. Performing Network, Path, and Text Analysis in SAS Visual Analytics
+1. **Getting Started with SAS Visual Analtics**
+2. **Data Analysis and Reporting in SAS Visual Analytics**
+3. **Using Data for Geographic Mapping & Forecasting in SAS Visual Analytics**            
+4. **Performing Network, Path, and Text Analysis in SAS Visual Analytics**
+5. **Creating Advanced Reports with SAS Visual Analytics**
+6. **SAS Visual Business Analytics** -Specilization Certificate
 
 ## Cambridge Certification Authority
 1. JAVA LEVEL -1      
@@ -31,34 +40,34 @@ All Certificate Achieved Till 2020
 ## Udemy
 
 ###  CCNA Certification
-> 1. The Complete Networking Fundamental.
-> 2. Cisco CCNA-ICND1Complete Course.
-> 3. Cisco Packet Tracer UltimateLABS.
-> 4. Cisco CCNA Packet Tracer Ultimate Labs-CCNA Exam Prep Labs.
+> 1. **The Complete Networking Fundamental**.
+> 2. **Cisco CCNA-ICND1Complete Course**.
+> 3. **Cisco Packet Tracer UltimateLABS**.
+> 4. **Cisco CCNA Packet Tracer Ultimate Labs-CCNA Exam Prep Labs.**
 
 ### AWS
-> 1. AWS Concepts.
-> 2. AWS DynamoDB-The Complete Guide (Hands On Demos).
+> 1. **AWS Concepts.**
+> 2. **AWS DynamoDB-The Complete Guide (Hands On Demos).**
 
 ### Machine Learning & Artificial Intelligence
-> 1. Machine Learning & Training Neural Network in MATLAB.
-> 2. Machine learning, Data Science and Deep Learning.
-> 3. Machine Learning A-Z-hands-on Python & R in data Science.
-> 4. Modern Natural Language Processing in Python.
-> 5. Complete TensorFlow 2.0 using Keras API.
+> 1. **Machine Learning & Training Neural Network in MATLAB.**
+> 2. **Machine learning, Data Science and Deep Learning.**
+> 3. **Machine Learning A-Z-hands-on Python & R in data Science.**
+> 4. **Modern Natural Language Processing in Python.**
+> 5. **Complete TensorFlow 2.0 using Keras API.**
 
 ### Data Science
-> 1. Data Science Masterclass - beginner to Advanced.
-> 2. Power BI A-Z_Hands-On Power BI Training For Data Science.
-> 3. Tableau 10 A-Z -Hands-on Tableau Training for Data Science.
+> 1. **Data Science Masterclass - beginner to Advanced.**
+> 2. **Power BI A-Z_Hands-On Power BI Training For Data Science.**
+> 3. **Tableau 10 A-Z -Hands-on Tableau Training for Data Science.**
 
 ### Python 
-> 1. Python Programming Bootcamp(2018).
-> 2. Python for Computer Vision with OpenCV and Deep Learning.
+> 1. **Python Programming Bootcamp(2018).**
+> 2. **Python for Computer Vision with OpenCV and Deep Learning.**
 
 ### JAVA 
-> 1. Java Programming Masterclass for Software developer.
-> 2. JavaFX for Beginners.
+> 1.**Java Programming Masterclass for Software developer.**
+> 2. **JavaFX for Beginners.**
 
 ### Android
 > Complete Android N developer Course
