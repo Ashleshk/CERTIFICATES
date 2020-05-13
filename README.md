@@ -29,23 +29,46 @@ All Certificate Achieved Till 2020
 2. JAVA LEVEL -2  
 
 ## Udemy
->  CCNA Certification
->> 1. The Complete Networking Fundamental
->> 2. Cisco CCNA-ICND1Complete Course
->> 3. Cisco Packet Tracer UltimateLABS
->> 4. Cisco CCNA Packet Tracer Ultimate Labs-CCNA Exam Prep Labs
 
-4. AWS Concepts
-5. 
-6. AWS DynamoDB-The Complete Guide (Hands On Demos)
-7. Complete Android N developer Course
-8. Complete TensorFlow 2.0 using Keras API
-9. Complete-nodeJS-developer-course
-10. Machine Learning & Training Neural Network in MATLAB
-11. Machine Learning A-Z-hands-on Python & R in data Science
-12. Machine learning, Data Science and Deep Learning
-13. Modern Natural Language Processing in Python
-14. Python for Computer Vision with OpenCV and Deep Learning
-15. Python Programming Bootcamp(2018)
-16. JavaFX for Beginners
+###  CCNA Certification
+> 1. The Complete Networking Fundamental.
+> 2. Cisco CCNA-ICND1Complete Course.
+> 3. Cisco Packet Tracer UltimateLABS.
+> 4. Cisco CCNA Packet Tracer Ultimate Labs-CCNA Exam Prep Labs.
 
+### AWS
+> 1. AWS Concepts.
+> 2. AWS DynamoDB-The Complete Guide (Hands On Demos).
+
+### Machine Learning & Artificial Intelligence
+> 1. Machine Learning & Training Neural Network in MATLAB.
+> 2. Machine learning, Data Science and Deep Learning.
+> 3. Machine Learning A-Z-hands-on Python & R in data Science.
+> 4. Modern Natural Language Processing in Python.
+> 5. Complete TensorFlow 2.0 using Keras API.
+
+### Data Science
+> 1. Data Science Masterclass - beginner to Advanced.
+> 2. Power BI A-Z_Hands-On Power BI Training For Data Science.
+> 3. Tableau 10 A-Z -Hands-on Tableau Training for Data Science.
+
+### Python 
+> 1. Python Programming Bootcamp(2018).
+> 2. Python for Computer Vision with OpenCV and Deep Learning.
+
+### JAVA 
+> 1. Java Programming Masterclass for Software developer.
+> 2. JavaFX for Beginners.
+
+### Android
+> Complete Android N developer Course
+
+### NodeJS
+> Complete-nodeJS-developer-course
+
+### SQL 
+> SQL Masterclass- SQL for Data Analytics
+
+### Other
+> 1. Abode InDesign CC -Complete Guide to InDesign Online Course
+> 2. Code First Game- Arcade Classic in JavaScript
