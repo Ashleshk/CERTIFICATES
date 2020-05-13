@@ -4,13 +4,14 @@ All Certificate Achieved Till 2020
     
 
 ## Deep Learning Specilization
-1. Neural Network And Deep Learning                                                   
-2. Improving Neural Networks: Hyperparameters tuning, Rugularization and optimization 
-3. Structuring Machine Learning Projects                                              
+1. **Neural Network And Deep Learning**                                                   
+2. **Improving Neural Networks: Hyperparameters tuning, Rugularization and optimization** 
+3. **Structuring Machine Learning Projects**  
+4. **                                            
 
-## NPTEL
-1. Programming in C++                                                                 
-2. Cloud Computing And Distributed Systems                                            
+## Machine Learning Stanford
+> Andrew Ng Course
+> Certificate Link:<b>https://www.coursera.org/account/accomplishments/records/JL34FB4CPYY6</b>
 
 ## Python Specilzation
 1. **Getting Started with Python**                                                        
@@ -23,7 +24,7 @@ All Certificate Achieved Till 2020
 1. **Getting Started with SAS programming**
 2. **Advanced SAS Programming**
 3. **Practical SAS Programming and Certification Review**
-4. **SAS Programmer** -Specilization Certificate
+4. **SAS Programmer** -*Specilization Certificate*
 
 ## SAS Visual Analytics Professional Certification
 1. **Getting Started with SAS Visual Analtics**
@@ -31,11 +32,15 @@ All Certificate Achieved Till 2020
 3. **Using Data for Geographic Mapping & Forecasting in SAS Visual Analytics**            
 4. **Performing Network, Path, and Text Analysis in SAS Visual Analytics**
 5. **Creating Advanced Reports with SAS Visual Analytics**
-6. **SAS Visual Business Analytics** -Specilization Certificate
+6. **SAS Visual Business Analytics** -*Specilization Certificate*
 
 ## Cambridge Certification Authority
 1. JAVA LEVEL -1      
 2. JAVA LEVEL -2  
+
+## NPTEL
+1. Programming in C++                                                                 
+2. Cloud Computing And Distributed Systems    
 
 ## Udemy
 
@@ -66,18 +71,19 @@ All Certificate Achieved Till 2020
 > 2. **Python for Computer Vision with OpenCV and Deep Learning.**
 
 ### JAVA 
-> 1.**Java Programming Masterclass for Software developer.**
+> 1. **Java Programming Masterclass for Software developer.**
+
 > 2. **JavaFX for Beginners.**
 
 ### Android
-> Complete Android N developer Course
+> **Complete Android N developer Course**
 
 ### NodeJS
-> Complete-nodeJS-developer-course
+> **Complete-nodeJS-developer-course**
 
 ### SQL 
-> SQL Masterclass- SQL for Data Analytics
+> **SQL Masterclass- SQL for Data Analytics**
 
 ### Other
-> 1. Abode InDesign CC -Complete Guide to InDesign Online Course
-> 2. Code First Game- Arcade Classic in JavaScript
+> 1. **Abode InDesign CC -Complete Guide to InDesign Online Course**
+> 2. **Code First Game- Arcade Classic in JavaScript**
