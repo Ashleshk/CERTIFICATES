@@ -15,32 +15,32 @@ All Certificate Achieved Till 2020
 
 ## Data Science
  * <b>Applied Data Science with Python Specialization - <a target="_blank" href="https://www.coursera.org/specializations/data-science-python">Coursera</a></b>
-    * Introduction to Data Science in Python - <a target="_blank" href="https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python">Coursera</a>- <a target="_blank" href="https://coursera.org/share/f2aaf6f11c77d3dac8f593e06b24f79f">Certificate</a>
-    * Applied Plotting, Charting & Data Representation in Python - <a target="_blank" href="https://www.coursera.org/learn/python-plotting?specialization=data-science-python">Coursera</a> - <a target ="_blank" href="https://coursera.org/share/7c3a7cf14cecd43f25f1ab65e82b7ec2">Certificate</a>
+    * **Introduction to Data Science in Python** - <a target="_blank" href="https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python">Coursera</a>- <a target="_blank" href="https://coursera.org/share/f2aaf6f11c77d3dac8f593e06b24f79f">Certificate</a>
+    * **Applied Plotting, Charting & Data Representation in Python** - <a target="_blank" href="https://www.coursera.org/learn/python-plotting?specialization=data-science-python">Coursera</a> - <a target ="_blank" href="https://coursera.org/share/7c3a7cf14cecd43f25f1ab65e82b7ec2">Certificate</a>
 
 
 ## Programming language
-* Python Programming Language
+* **Python Programming Language**
     * <b>Python for Everbody - University of Michigan - <a target="_blank" href="https://www.coursera.org/specializations/python">Coursera</a></b>
         * **Programming for Everybody (Getting Started with Python)** - <a target="_blank" href="https://www.coursera.org/learn/python">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/QWGNQTXY497W">Certificate</a>
         * **Python Data Structures** - <a target="_blank" href="https://www.coursera.org/learn/python-data">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/94S59VLZX4VK">Certificate</a>
         * **Using Python to Access Web Data** - <a target="_blank" href="https://www.coursera.org/learn/python-network-data">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/MJ4X5BH3Q9M7">Certificate</a>
         * **Using Databases with Python** - <a target="_blank" href="https://www.coursera.org/learn/python-databases">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/9T2TJH6RZH8E">Certificate</a>
         * **Capstone: Retrieving, Processing, and Visualizing Data with Python** - <a target="_blank" href="https://www.coursera.org/learn/python-data-visualization">Coursera</a> - Github  + <a target=_blank href="https://coursera.org/share/ec8bb07c4377822c168765cfc45eedd1">Honor Certificate</a>
-        * Python For Everybody Specialization - <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/4T4HTB2HGTZZ">Certificate</a>            
+        * **Python For Everybody Specialization** - <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/4T4HTB2HGTZZ">Certificate</a>            
 
-* MATLAB Programming Language
+* **MATLAB Programming Language**
     * <b>Introduction to Programming with MATLAB - Vanderbilt University - <a target="_blank" href="https://www.coursera.org/learn/matlab">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/A2WKSBCMCTPT">Certificate</a></b>
 
 ## Robotics
 * <b>An Introduction to Programming the Internet of Things (IOT) - University of California - <a target="_blank" href="https://www.coursera.org/specializations/iot">Coursera</a></b>
-    * Introduction to the Internet of Things and Embedded Systems - <a target="_blank" href="https://www.coursera.org/learn/iot">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/FHXRD5D2EFET">Certificate</a>
-    * The Arduino Platform and C Programming - <a target="_blank" href="https://www.coursera.org/learn/arduino-platform">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/XYSRX9UFPNYN">Certificate</a>
-    * Interfacing with the Arduino - <a target="_blank" href="https://www.coursera.org/learn/interface-with-arduino">Coursera</a> - Github -<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/ZU4C2V72UH7A">Certificate</a>
-    * The Raspberry Pi Platform and Python Programming for the Raspberry Pi - <a target="_blank" href="https://www.coursera.org/learn/raspberry-pi-platform">Coursera</a> - Github -<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/NU4W7WPJSDCN">Certificate</a>
-    * Interfacing with the Raspberry Pi - <a target="_blank" href="https://www.coursera.org/learn/raspberry-pi-interface">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/AXW37UUNL8B4">Certificate</a>
-    * Programming for the Internet of Things Project - <a target="_blank" href="https://www.coursera.org/learn/internet-of-things-project">Coursera</a> - Github -<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/L2PLDDGXAAEB">Certificate</a>
-    * An Introduction to Programming the Internet of Things (IOT) Specialization - <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/PYTHH37567LP">*Specilization Certificate*</a>
+    * **Introduction to the Internet of Things and Embedded Systems** - <a target="_blank" href="https://www.coursera.org/learn/iot">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/FHXRD5D2EFET">Certificate</a>
+    * **The Arduino Platform and C Programming** - <a target="_blank" href="https://www.coursera.org/learn/arduino-platform">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/XYSRX9UFPNYN">Certificate</a>
+    * **Interfacing with the Arduino** - <a target="_blank" href="https://www.coursera.org/learn/interface-with-arduino">Coursera</a> - Github -<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/ZU4C2V72UH7A">Certificate</a>
+    * **The Raspberry Pi Platform and Python Programming for the Raspberry Pi** - <a target="_blank" href="https://www.coursera.org/learn/raspberry-pi-platform">Coursera</a> - Github -<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/NU4W7WPJSDCN">Certificate</a>
+    * **Interfacing with the Raspberry Pi** - <a target="_blank" href="https://www.coursera.org/learn/raspberry-pi-interface">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/AXW37UUNL8B4">Certificate</a>
+    * **Programming for the Internet of Things Project** - <a target="_blank" href="https://www.coursera.org/learn/internet-of-things-project">Coursera</a> - Github -<a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/L2PLDDGXAAEB">Certificate</a>
+    * **An Introduction to Programming the Internet of Things (IOT) Specialization** - <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/PYTHH37567LP">*Specilization Certificate*</a>
 
 ## SAS Programmer Professional Certificate
 1. **Getting Started with SAS programming** - <a target="_blank" href="https://www.coursera.org/learn/sas-programming-basics">Coursera</a> - <a target="_blank" href="">Github</a> - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/5TVTCKL6BWQY">Certificate</a>
@@ -67,46 +67,46 @@ All Certificate Achieved Till 2020
 ## Udemy
 
 ###  CCNA Certification
-> 1. **The Complete Networking Fundamental**. - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 2. **Cisco CCNA-ICND1Complete Course**. - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 3. **Cisco Packet Tracer UltimateLABS**. - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 4. **Cisco CCNA Packet Tracer Ultimate Labs-CCNA Exam Prep Labs.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 1. **The Complete Networking Fundamental**. - <a target="_blank" href="https://www.udemy.com/share/101WrEBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-R2Z1CLT6/">Certificate</a>
+> 2. **Cisco CCNA-ICND1 Complete Course**. - <a target="_blank" href="https://www.udemy.com/share/101WroBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="Udemy/CCNA Ceritification/2-Cisco-CCNA _ICND1-Complete-Course.pdf">Certificate</a>
+> 3. **Cisco Packet Tracer Ultimate LABS**. - <a target="_blank" href="https://www.udemy.com/share/1013MQBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-PWJW4U7H/">Certificate</a>
+> 4. **Cisco CCNA 200-301 Complete Course: Packet Tracer Labs** - <a target="_blank" href="https://www.udemy.com/share/101WroBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-01b72f36-c1e9-4b56-a891-9932e455fcef/">Certificate</a>
 
 ### AWS
-> 1. **AWS Concepts.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 1. **AWS Concepts.** - <a target="_blank" href="https://www.udemy.com/share/101r3GBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-QRPEAM5T/">Certificate</a>
 > 2. **AWS DynamoDB-The Complete Guide (Hands On Demos).** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
 
 ### Machine Learning & Artificial Intelligence
-> 1. **Machine Learning & Training Neural Network in MATLAB.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 2. **Machine learning, Data Science and Deep Learning.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 1. **Machine Learning & Training Neural Network in MATLAB.** - <a target="_blank" href="https://www.udemy.com/share/101YTyBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-JPT1PRTZ/">Certificate</a>
+> 2. **Machine learning, Data Science and Deep Learning.** - <a target="_blank" href="https://www.udemy.com/share/101W9OBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-TWFP5MXB/">Certificate</a>
 > 3. **Machine Learning A-Z-hands-on Python & R in data Science.** - <a target="_blank" href="https://www.udemy.com/share/101WciBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-ACJJXULH/">Certificate</a>
-> 4. **Modern Natural Language Processing in Python.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 5. **Complete TensorFlow 2.0 using Keras API.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 4. **Modern Natural Language Processing in Python.** - <a target="_blank" href="https://www.udemy.com/share/102fxSBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-ab49828e-5c2c-4b8a-bcef-5259d9153a10/">Certificate</a>
+> 5. **Complete TensorFlow 2.0 using Keras API.** - <a target="_blank" href="https://www.udemy.com/share/101qEyBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-5f8d2ae4-de7e-4b5c-8be4-70f760ad2eaa/">Certificate</a>
 > 6. **Deep Learning Prerequisites - The Numpy Stack in Python** - <a target="_blank" href="https://www.udemy.com/share/101r9qBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-3KC7HHAX/">Certificate</a>
 
 ### Data Science
-> 1. **Data Science Masterclass - beginner to Advanced.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 2. **Power BI A-Z_Hands-On Power BI Training For Data Science.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 3. **Tableau 10 A-Z -Hands-on Tableau Training for Data Science.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 1. **Data Science Masterclass - beginner to Advanced.** - <a target="_blank" href="https://www.udemy.com/share/101PbtBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-df370394-3ecb-49f4-8179-25a6e2165a3f/">Certificate</a>
+> 2. **Power BI A-Z_Hands-On Power BI Training For Data Science.** - <a target="_blank" href="https://www.udemy.com/share/101WGaBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-8ba58b0c-84ab-4486-9c9d-11eabc69cf40/">Certificate</a>
+> 3. **Tableau 10 A-Z -Hands-on Tableau Training for Data Science.** - <a target="_blank" href="https://www.udemy.com/share/101WbsBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-47decefd-dd8a-48cb-aab7-24bb8ede3998/">Certificate</a>
 
 ### Python 
-> 1. **Python Programming Bootcamp(2018).** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 2. **Python for Computer Vision with OpenCV and Deep Learning.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 1. **Python Programming Bootcamp(2018).** - <a target="_blank" href="https://www.udemy.com/share/101yMABUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-10Z125KF/">Certificate</a>
+> 2. **Python for Computer Vision with OpenCV and Deep Learning.** - <a target="_blank" href="https://www.udemy.com/share/10143yBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-MZY46VLM/">Certificate</a>
 
 ### JAVA 
-> 1. **Java Programming Masterclass for Software developer.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 1. **Java Programming Masterclass for Software developer.** - <a target="_blank" href="https://www.udemy.com/share/101WdqBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-ef9de388-b53d-4f15-b3b2-a4e734461385/">Certificate</a>
 
-> 2. **JavaFX for Beginners.** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 2. **JavaFX for Beginners.** - <a target="_blank" href="https://www.udemy.com/share/101NHpBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-U2E3714C/">Certificate</a>
 
 ### Android
-> **Complete Android N developer Course** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> **Complete Android N developer Course** - <a target="_blank" href="https://www.udemy.com/share/101WfkBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-RVC86C67/">Certificate</a>
 
 ### NodeJS
-> **Complete-nodeJS-developer-course** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> **Complete-nodeJS-developer-course** - <a target="_blank" href="https://www.udemy.com/share/101WGiBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-93OPSZJW/">Certificate</a>
 
 ### SQL 
 > **SQL Masterclass- SQL for Data Analytics** - <a target="_blank" href="https://www.udemy.com/share/101vbCBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-7b3ba760-fa75-4cd0-936a-b73cc63429ec/">Certificate</a>
 
 ### Other
-> 1. **Abode InDesign CC -Complete Guide to InDesign Online Course** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
-> 2. **Code First Game- Arcade Classic in JavaScript** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 1. **Abode InDesign CC -Complete Guide to InDesign Online Course** - <a target="_blank" href="https://www.udemy.com/share/101C1aBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-1YKDCIPQ/">Certificate</a>
+> 2. **Code First Game- Arcade Classic in JavaScript** - <a target="_blank" href="https://www.udemy.com/share/101r8kBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-51181bac-465b-44d8-b30b-83b5a585a86d/">Certificate</a>
