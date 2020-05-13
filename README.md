@@ -1,9 +1,7 @@
 # CERTIFICATES
 All Certificate Achieved Till 2020
 
-## Cambridge Certification Authority
-1. JAVA LEVEL -1      
-2. JAVA LEVEL -2      
+    
 
 ## Deep Learning Specilization
 1. Neural Network And Deep Learning                                                   
@@ -26,12 +24,19 @@ All Certificate Achieved Till 2020
 3. Using Data for Geographic Mapping & Forecasting in SAS Visual Analytics            
 4. Performing Network, Path, and Text Analysis in SAS Visual Analytics
 
+## Cambridge Certification Authority
+1. JAVA LEVEL -1      
+2. JAVA LEVEL -2  
+
 ## Udemy
-1. The Complete Networking Fundamental
-2. Cisco CCNA-ICND1Complete Course
-3. Cisco Packet Tracer UltimateLABS
+>  CCNA Certification
+>> 1. The Complete Networking Fundamental
+>> 2. Cisco CCNA-ICND1Complete Course
+>> 3. Cisco Packet Tracer UltimateLABS
+>> 4. Cisco CCNA Packet Tracer Ultimate Labs-CCNA Exam Prep Labs
+
 4. AWS Concepts
-5. Cisco CCNA Packet Tracer Ultimate Labs-CCNA Exam Prep Labs
+5. 
 6. AWS DynamoDB-The Complete Guide (Hands On Demos)
 7. Complete Android N developer Course
 8. Complete TensorFlow 2.0 using Keras API
