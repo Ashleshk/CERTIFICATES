@@ -12,16 +12,16 @@ All Certificate Achieved Till 2020
 6. **Specilzation Deep Learning Certificate** +<a target="_blank" href="https://coursera.org/share/801ba65b562025d70be0354c1a3365e0">Certificate</a>                 
 
 ## Machine Learning Stanford
-> Andrew Ng Course
-> Certificate Link:<b>https://www.coursera.org/account/accomplishments/records/JL34FB4CPYY6</b>
+> Andrew Ng Course <a target="_blank" href="https://www.coursera.org/account/accomplishments/records/JL34FB4CPYY6">Certificate Link</a>
 
 ## Programming language
 <b>Python for Everody - University of Michigan - <a target="_blank" href="https://www.coursera.org/specializations/python">Coursera</a></b>
+
 * Programming for Everybody (Getting Started with Python) - <a target="_blank" href="https://www.coursera.org/learn/python">Coursera</a> - Github
-        * Python Data Structures - <a target="_blank" href="https://www.coursera.org/learn/python-data">Coursera</a> - Github
-        * Using Python to Access Web Data - <a target="_blank" href="https://www.coursera.org/learn/python-network-data">Coursera</a> - Github
-        * Using Databases with Python - <a target="_blank" href="https://www.coursera.org/learn/python-databases">Coursera</a> - Github
-        * Capstone: Retrieving, Processing, and Visualizing Data with Python - <a target="_blank" href="https://www.coursera.org/learn/python-data-visualization">Coursera</a> - Github  + <a target=_blank href="https://coursera.org/share/ec8bb07c4377822c168765cfc45eedd1">Honor Certificate</a>              
+* Python Data Structures - <a target="_blank" href="https://www.coursera.org/learn/python-data">Coursera</a> - Github
+* Using Python to Access Web Data - <a target="_blank" href="https://www.coursera.org/learn/python-network-data">Coursera</a> - Github
+* Using Databases with Python - <a target="_blank" href="https://www.coursera.org/learn/python-databases">Coursera</a> - Github
+* Capstone: Retrieving, Processing, and Visualizing Data with Python - <a target="_blank" href="https://www.coursera.org/learn/python-data-visualization">Coursera</a> - Github  + <a target=_blank href="https://coursera.org/share/ec8bb07c4377822c168765cfc45eedd1">Honor Certificate</a>              
 
 ## SAS Programmer Profeesional Certificate
 1. **Getting Started with SAS programming**
