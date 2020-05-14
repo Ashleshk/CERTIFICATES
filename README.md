@@ -74,7 +74,7 @@ All Certificate Achieved Till 2020
 
 ### AWS
 > 1. **AWS Concepts.** - <a target="_blank" href="https://www.udemy.com/share/101r3GBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-QRPEAM5T/">Certificate</a>
-> 2. **AWS DynamoDB-The Complete Guide (Hands On Demos).** - <a target="_blank" href="">Udemy</a> + <a target="_blank" href="">Certificate</a>
+> 2. **AWS DynamoDB-The Complete Guide (Hands On Demos).** - <a target="_blank" href="https://www.udemy.com/course/dynamodb/">Udemy</a> + <a target="_blank" href="Udemy/AWS DynamoDB-The Complete Guide (Hands On Demos).pdf">Certificate</a>
 
 ### Machine Learning & Artificial Intelligence
 > 1. **Machine Learning & Training Neural Network in MATLAB.** - <a target="_blank" href="https://www.udemy.com/share/101YTyBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-JPT1PRTZ/">Certificate</a>
