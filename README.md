@@ -1,5 +1,5 @@
 # CERTIFICATES
-All Certificate Achieved Till 2020
+All Certificate Achieved From 2016-2020
 
 
 ## Deep Learning Specialization  
@@ -17,6 +17,10 @@ All Certificate Achieved Till 2020
  * <b>Applied Data Science with Python Specialization - <a target="_blank" href="https://www.coursera.org/specializations/data-science-python">Coursera</a></b>
     * **Introduction to Data Science in Python** - <a target="_blank" href="https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python">Coursera</a>- <a target="_blank" href="https://coursera.org/share/f2aaf6f11c77d3dac8f593e06b24f79f">Certificate</a>
     * **Applied Plotting, Charting & Data Representation in Python** - <a target="_blank" href="https://www.coursera.org/learn/python-plotting?specialization=data-science-python">Coursera</a> - <a target ="_blank" href="https://coursera.org/share/7c3a7cf14cecd43f25f1ab65e82b7ec2">Certificate</a>
+    * **Applied Machine Learning in Python** - <a target="_blank" href="https://www.coursera.org/learn/python-machine-learning">Coursera</a> - <a target="_blank" href="https://coursera.org/share/cc4a093efc7b0f41e4cbe9db98afd180">Certificate</a>
+    * **Applied Text Mining in Python** - <a target="_blank" href="https://www.coursera.org/learn/python-text-mining">Coursera</a> - <a target="_blank" href="https://www.coursera.org/account/accomplishments/records/YPSLBDSDQDFZ">Certificate</a>
+    * **Applied Social Network Analysis in Python** - <a target="_blank" href="https://www.coursera.org/learn/python-social-network-analysis">Coursera</a> - <a target="_blank" href="https://coursera.org/share/9591199133f5fc64b32d92cc0d432504">Certificate</a>
+    * **Specilization Applied Data Science with Python** - <a target="_blank" href="https://www.coursera.org/specializations/data-science-python">Coursera</a> - <a target="_blank" href="https://coursera.org/share/5aa514a6ed4f73641d49ae09e7d282f5">Certificate</a>
 
 
 ## Programming language
