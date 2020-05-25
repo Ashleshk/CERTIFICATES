@@ -114,3 +114,6 @@ All Certificate Achieved From 2016-2020
 ### Other
 > 1. **Abode InDesign CC -Complete Guide to InDesign Online Course** - <a target="_blank" href="https://www.udemy.com/share/101C1aBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-1YKDCIPQ/">Certificate</a>
 > 2. **Code First Game- Arcade Classic in JavaScript** - <a target="_blank" href="https://www.udemy.com/share/101r8kBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-51181bac-465b-44d8-b30b-83b5a585a86d/">Certificate</a>
+
+### Other College Competition
+> 1. **ElectroQuiz**  
