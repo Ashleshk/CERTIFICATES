@@ -11,9 +11,9 @@ All Certificate Achieved apart from Academic Achivements
 6. **Specilzation Deep Learning Certificate** - <a target="_blank" href="https://www.coursera.org/specializations/deep-learning?specialization=data-science-python">Coursera</a> - <a target="_blank" href="https://coursera.org/share/801ba65b562025d70be0354c1a3365e0">Certificate</a> - [Github](https://github.com/Ashleshk/Deep-Learning.ai-Coursera-Specialization)               
 
 ## Machine Learning Stanford
-> Andrew Ng Course on <a target="_blank" href="https://www.coursera.org/learn/machine-learning?">Coursera</a> + <a target="_blank" href="https://www.coursera.org/account/accomplishments/records/JL34FB4CPYY6">Certificate Link</a>
+> **Andrew Ng** Course on Machine Learning Available on  <a target="_blank" href="https://www.coursera.org/learn/machine-learning?">Coursera</a> + <a target="_blank" href="https://www.coursera.org/account/accomplishments/records/JL34FB4CPYY6">Certificate Link</a>
 
-> [Github Repository](https://github.com/Ashleshk/Machine-Learning-Stanford-Andrew-Ng)
+> Please Check Github repository for More Details - [Github Repository](https://github.com/Ashleshk/Machine-Learning-Stanford-Andrew-Ng)
 
 ## Data Science
  * <b>Applied Data Science with Python Specialization - <a target="_blank" href="https://www.coursera.org/specializations/data-science-python">Coursera</a></b>
