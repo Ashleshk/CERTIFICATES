@@ -1,5 +1,5 @@
 # CERTIFICATES
-All Certificate Achieved From 2016-2020
+All Certificate Achieved apart from Academic Achivements
 
 
 ## Deep Learning Specialization  
