@@ -36,7 +36,7 @@ All Certificate Achieved apart from Academic Achivements
         * **Python For Everybody Specialization** - [Github Repository](https://github.com/Ashleshk/Python-For-Everybody-Coursera) - <a target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/4T4HTB2HGTZZ">Certificate</a>            
 
 * **MATLAB Programming Language**
-    * <b>Introduction to Programming with MATLAB - Vanderbilt University - <a target="_blank" href="https://www.coursera.org/learn/matlab">Coursera</a> - Github - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/A2WKSBCMCTPT">Certificate</a></b>
+    * <b>Introduction to Programming with MATLAB - Vanderbilt University - <a target="_blank" href="https://www.coursera.org/learn/matlab">Coursera</a> - [Github](https://github.com/Ashleshk/Introduction-to-Programming-with-MATLAB-Coursera) - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/A2WKSBCMCTPT">Certificate</a></b>
 
 ## Robotics
 * <b>An Introduction to Programming the Internet of Things (IOT) - University of California - <a target="_blank" href="https://www.coursera.org/specializations/iot">Coursera</a></b>
