@@ -100,7 +100,7 @@ All Certificate Achieved apart from Academic Achivements
 > 2. **Python for Computer Vision with OpenCV and Deep Learning.** - <a target="_blank" href="https://www.udemy.com/share/10143yBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning) + <a target="_blank" href="https://www.udemy.com/certificate/UC-MZY46VLM/">Certificate</a>
 
 ### JAVA 
-> 1. **Java Programming Masterclass for Software developer.** - <a target="_blank" href="https://www.udemy.com/share/101WdqBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-ef9de388-b53d-4f15-b3b2-a4e734461385/">Certificate</a>
+> 1. **Java Programming Masterclass for Software developer.** - <a target="_blank" href="https://www.udemy.com/share/101WdqBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Java-Programming-MasterClass) + <a target="_blank" href="https://www.udemy.com/certificate/UC-ef9de388-b53d-4f15-b3b2-a4e734461385/">Certificate</a>
 
 > 2. **JavaFX for Beginners.** - <a target="_blank" href="https://www.udemy.com/share/101NHpBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-U2E3714C/">Certificate</a>
 
