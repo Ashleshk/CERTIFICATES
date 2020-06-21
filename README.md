@@ -119,8 +119,8 @@ All Certificate Achieved apart from Academic Achivements
 
 ## Workshops
 > 1. **Matlab Digital Audio Processing Hands-On Training**
-    > Audio Processing & conceptualization of Rhythm Classifier and Building Your Own Audio-Synthesisor Application Project.
-    
+  * Audio Processing & conceptualization of Rhythm Classifier and Building Your Own Audio-Synthesisor Application Project.
+
 ## Other College Competition
 > 1. **ElectroQuiz**  
 > 2. **Electronics Project Exhibition-2019, PICT**
