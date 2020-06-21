@@ -117,7 +117,11 @@ All Certificate Achieved apart from Academic Achivements
 > 1. **Abode InDesign CC -Complete Guide to InDesign Online Course** - <a target="_blank" href="https://www.udemy.com/share/101C1aBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-1YKDCIPQ/">Certificate</a>
 > 2. **Code First Game- Arcade Classic in JavaScript** - <a target="_blank" href="https://www.udemy.com/share/101r8kBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-51181bac-465b-44d8-b30b-83b5a585a86d/">Certificate</a>
 
-### Other College Competition
+## Workshops
+> 1. **Matlab Digital Audio Processing Hands-On Training**
+    > Audio Processing & conceptualization of Rhythm Classifier and Building Your Own Audio-Synthesisor Application Project.
+    
+## Other College Competition
 > 1. **ElectroQuiz**  
 > 2. **Electronics Project Exhibition-2019, PICT**
 > 3. **TECHNO 2k19, MMCOE-INNOVATIVE PROJECT**
