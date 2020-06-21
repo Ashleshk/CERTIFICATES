@@ -84,9 +84,9 @@ All Certificate Achieved apart from Academic Achivements
 
 ### Machine Learning & Artificial Intelligence
 > 1. **Machine Learning & Training Neural Network in MATLAB.** - <a target="_blank" href="https://www.udemy.com/share/101YTyBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-JPT1PRTZ/">Certificate</a>
-> 2. **Machine learning, Data Science and Deep Learning.** - <a target="_blank" href="https://www.udemy.com/share/101W9OBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-TWFP5MXB/">Certificate</a>
+> 2. **Machine learning, Data Science and Deep Learning.** - <a target="_blank" href="https://www.udemy.com/share/101W9OBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning)<a target="_blank" href="https://www.udemy.com/certificate/UC-TWFP5MXB/">Certificate</a>
 > 3. **Machine Learning A-Z-hands-on Python & R in data Science.** - <a target="_blank" href="https://www.udemy.com/share/101WciBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-ACJJXULH/">Certificate</a>
-> 4. **Modern Natural Language Processing in Python.** - <a target="_blank" href="https://www.udemy.com/share/102fxSBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-ab49828e-5c2c-4b8a-bcef-5259d9153a10/">Certificate</a>
+> 4. **Modern Natural Language Processing in Python.** - <a target="_blank" href="https://www.udemy.com/share/102fxSBUEecFdWRnQ=/">Udemy</a> + [Github]() + <a target="_blank" href="https://www.udemy.com/certificate/UC-ab49828e-5c2c-4b8a-bcef-5259d9153a10/">Certificate</a>
 > 5. **Complete TensorFlow 2.0 using Keras API.** - <a target="_blank" href="https://www.udemy.com/share/101qEyBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-5f8d2ae4-de7e-4b5c-8be4-70f760ad2eaa/">Certificate</a>
 > 6. **Deep Learning Prerequisites - The Numpy Stack in Python** - <a target="_blank" href="https://www.udemy.com/share/101r9qBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-3KC7HHAX/">Certificate</a>
 
