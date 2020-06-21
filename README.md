@@ -97,7 +97,7 @@ All Certificate Achieved apart from Academic Achivements
 
 ### Python 
 > 1. **Python Programming Bootcamp(2018).** - <a target="_blank" href="https://www.udemy.com/share/101yMABUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning) + <a target="_blank" href="https://www.udemy.com/certificate/UC-10Z125KF/">Certificate</a>
-> 2. **Python for Computer Vision with OpenCV and Deep Learning.** - <a target="_blank" href="https://www.udemy.com/share/10143yBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Machine-Learning-Data-Science-Deep-Learning) + <a target="_blank" href="https://www.udemy.com/certificate/UC-MZY46VLM/">Certificate</a>
+> 2. **Python for Computer Vision with OpenCV and Deep Learning.** - <a target="_blank" href="https://www.udemy.com/share/10143yBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Computer-Vision-with-Python-Udemy) + <a target="_blank" href="https://www.udemy.com/certificate/UC-MZY46VLM/">Certificate</a>
 
 ### JAVA 
 > 1. **Java Programming Masterclass for Software developer.** - <a target="_blank" href="https://www.udemy.com/share/101WdqBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Java-Programming-MasterClass) + <a target="_blank" href="https://www.udemy.com/certificate/UC-ef9de388-b53d-4f15-b3b2-a4e734461385/">Certificate</a>
