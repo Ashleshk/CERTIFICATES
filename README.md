@@ -119,3 +119,4 @@ All Certificate Achieved apart from Academic Achivements
 
 ### Other College Competition
 > 1. **ElectroQuiz**  
+> 2. **Electronics Project Exhibition-2019, PICT**
