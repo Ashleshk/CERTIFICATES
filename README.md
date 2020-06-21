@@ -121,3 +121,4 @@ All Certificate Achieved apart from Academic Achivements
 > 1. **ElectroQuiz**  
 > 2. **Electronics Project Exhibition-2019, PICT**
 > 3. **TECHNO 2k19, MMCOE-INNOVATIVE PROJECT**
+> 4. **Scientia, Blind-Coding, Organizer, PICT**
