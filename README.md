@@ -92,7 +92,7 @@ All Certificate Achieved apart from Academic Achivements
 
 ### Data Science
 > 1. **Data Science Masterclass - beginner to Advanced.** - <a target="_blank" href="https://www.udemy.com/share/101PbtBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-df370394-3ecb-49f4-8179-25a6e2165a3f/">Certificate</a>
-> 2. **Power BI A-Z_Hands-On Power BI Training For Data Science.** - <a target="_blank" href="https://www.udemy.com/share/101WGaBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-8ba58b0c-84ab-4486-9c9d-11eabc69cf40/">Certificate</a>
+> 2. **Power BI A-Z_Hands-On Power BI Training For Data Science.** - <a target="_blank" href="https://www.udemy.com/share/101WGaBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy) + <a target="_blank" href="https://www.udemy.com/certificate/UC-8ba58b0c-84ab-4486-9c9d-11eabc69cf40/">Certificate</a>
 > 3. **Tableau 10 A-Z -Hands-on Tableau Training for Data Science.** - <a target="_blank" href="https://www.udemy.com/share/101WbsBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy)<a target="_blank" href="https://www.udemy.com/certificate/UC-47decefd-dd8a-48cb-aab7-24bb8ede3998/">Certificate</a>
 
 ### Python 
