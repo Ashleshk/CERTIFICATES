@@ -102,7 +102,7 @@ All Certificate Achieved apart from Academic Achivements
 ### JAVA 
 > 1. **Java Programming Masterclass for Software developer.** - <a target="_blank" href="https://www.udemy.com/share/101WdqBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Java-Programming-MasterClass) + <a target="_blank" href="https://www.udemy.com/certificate/UC-ef9de388-b53d-4f15-b3b2-a4e734461385/">Certificate</a>
 
-> 2. **JavaFX for Beginners.** - <a target="_blank" href="https://www.udemy.com/share/101NHpBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-U2E3714C/">Certificate</a>
+> 2. **JavaFX for Beginners.** - <a target="_blank" href="https://www.udemy.com/share/101NHpBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/Udemy-JavaFX-Complete-Course) + <a target="_blank" href="https://www.udemy.com/certificate/UC-U2E3714C/">Certificate</a>
 
 ### Android
 > **Complete Android N developer Course** - <a target="_blank" href="https://www.udemy.com/share/101WfkBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-RVC86C67/">Certificate</a>
