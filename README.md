@@ -111,7 +111,7 @@ All Certificate Achieved apart from Academic Achivements
 > **Complete-nodeJS-developer-course** - <a target="_blank" href="https://www.udemy.com/share/101WGiBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-93OPSZJW/">Certificate</a>
 
 ### SQL 
-> **SQL Masterclass- SQL for Data Analytics** - <a target="_blank" href="https://www.udemy.com/share/101vbCBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-7b3ba760-fa75-4cd0-936a-b73cc63429ec/">Certificate</a>
+> **SQL Masterclass- SQL for Data Analytics** - <a target="_blank" href="https://www.udemy.com/share/101vbCBUEecFdWRnQ=/">Udemy</a> + [Github](https://github.com/Ashleshk/The-Complete-SQL-Masterclass-For-Data-Analytics-Udemy) + <a target="_blank" href="https://www.udemy.com/certificate/UC-7b3ba760-fa75-4cd0-936a-b73cc63429ec/">Certificate</a>
 
 ### Other
 > 1. **Abode InDesign CC -Complete Guide to InDesign Online Course** - <a target="_blank" href="https://www.udemy.com/share/101C1aBUEecFdWRnQ=/">Udemy</a> + <a target="_blank" href="https://www.udemy.com/certificate/UC-1YKDCIPQ/">Certificate</a>
