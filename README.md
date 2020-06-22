@@ -71,7 +71,7 @@ All Certificate Achieved apart from Academic Achivements
     * **Introduction to CSS3** - [Coursera](https://www.coursera.org/learn/introcss?specialization=web-design) - Github - [Certificate](https://github.com/Ashleshk/CERTIFICATES/blob/master/Web%20Design%20for%20Everybody%20-%20Basic%20of%20Web%20Development%20%26%20Coding%20Specialization/Introduction%20to%20CSS3.pdf)
     * **Interactivity with javaScript** - [Coursera](https://www.coursera.org/learn/javascript) - Github - [Certificate](https://github.com/Ashleshk/CERTIFICATES/blob/master/Web%20Design%20for%20Everybody%20-%20Basic%20of%20Web%20Development%20%26%20Coding%20Specialization/Interactivity%20with%20JavaScript.pdf)
     * **Advanced styling with Responsive Design** - [Coursera](https://www.coursera.org/learn/responsivedesign) - Github - [Certificate](https://github.com/Ashleshk/CERTIFICATES/blob/master/Web%20Design%20for%20Everybody%20-%20Basic%20of%20Web%20Development%20%26%20Coding%20Specialization/Advanced%20Styling%20with%20Responsive%20Design.pdf)
-    * **Web Design for Everybody Capstone** - Coursera - Github - Certificate
+    * **Web Design for Everybody Capstone** - [Coursera](https://www.coursera.org/learn/web-design-project) - Github - Certificate
 
 
 ## Cambridge Certification Authority
