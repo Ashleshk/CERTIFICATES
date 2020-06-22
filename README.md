@@ -62,6 +62,10 @@ All Certificate Achieved apart from Academic Achivements
 5. **Creating Advanced Reports with SAS Visual Analytics** - <a target="_blank" href="https://www.coursera.org/learn/advanced-reports-sas-va">Coursera</a> - <a target="_blank" href="https://github.com/Ashleshk/SAS-Visual-Business-Analytics">Github</a> - <a target="_blank" href="https://www.coursera.org/account/accomplishments/certificate/UFCSP6UU5MMS">Certificate</a>
 6. **SAS Visual Business Analytics** - <a target="_blank" href="https://www.coursera.org/professional-certificates/sas-visual-business-analytics">Coursera</a> - <a target="_blank" href="https://coursera.org/share/97fc7eb8ff87c27e50b8f00115961b77">*Specialization Certificate*</a>
 
+## Cloud
+* **Google Cloud Platform Fundamentals- Core Infrastructure** - Course-01 Completed
+
+
 ## Cambridge Certification Authority
 1. JAVA LEVEL -1      
 2. JAVA LEVEL -2  
