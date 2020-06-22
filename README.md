@@ -67,6 +67,11 @@ All Certificate Achieved apart from Academic Achivements
 
 ## Web Development 
 * **Web Design for Everybody - Basic of Web Development & Coding Specialization** - [Coursera](https://www.coursera.org/specializations/web-design)
+    * **Introduction to HTML5** - Coursera - Github - Certificate
+    * **Introduction to CSS3** - Coursera - Github - Certificate
+    * **Interactivity with javaScript** - Coursera - Github - Certificate
+    * **Advanced styling with Responsive Design** - Coursera - Github - Certificate
+    * **Web Design for Everybody Capstone** - Coursera - Github - Certificate
 
 
 ## Cambridge Certification Authority
