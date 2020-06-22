@@ -65,6 +65,9 @@ All Certificate Achieved apart from Academic Achivements
 ## Cloud
 * **Google Cloud Platform Fundamentals- Core Infrastructure** - Course-01 Completed
 
+## Web Development 
+* **Web Design for Everybody - Basic of Web Development & Coding Specialization** - [Coursera](https://www.coursera.org/specializations/web-design)
+
 
 ## Cambridge Certification Authority
 1. JAVA LEVEL -1      
