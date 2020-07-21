@@ -28,11 +28,11 @@ All Certificate Achieved apart from Academic Achivements
     * **Tools for Data Science** - [Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science) - Github - Certificate
     * **Data Science Methodology** - Coursera - Github - Certificate
     * **Python for Data Science and AI** - Coursera - Github - Certificate
-    * **DataBases & SQL for Python**
-    * **Data Analysis with python**
-    * **Data Visualization in Python**
-    * **Machine Learning With Python**
-    * **Applied Data Science Capstone**
+    * **DataBases & SQL for Python** - Coursera - Github - Certificate
+    * **Data Analysis with python** - Coursera - Github - Certificate
+    * **Data Visualization in Python** - Coursera - Github - Certificate
+    * **Machine Learning With Python** - Coursera - Github - Certificate
+    * **Applied Data Science Capstone** - Coursera - Github - Certificate
 
 
 ## Programming language
