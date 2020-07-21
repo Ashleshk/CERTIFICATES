@@ -28,7 +28,7 @@ All Certificate Achieved apart from Academic Achivements
     * **Tools for Data Science** - [Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-2%20Tools%20for%20Data%20Science) - Certificate
     * **Data Science Methodology** - [Coursera](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-3%20Data%20Science%20Methodology) - Certificate
     * **Python for Data Science and AI** - [Coursera](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-4%20Python%20for%20Data%20Science%20and%20AI) - Certificate
-    * **DataBases & SQL for Python** - [Coursera](https://www.coursera.org/learn/sql-data-science) - Github - Certificate
+    * **DataBases & SQL for Python** - [Coursera](https://www.coursera.org/learn/sql-data-science) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-5%20DataBases%20%26%20SQL%20for%20Python) - Certificate
     * **Data Analysis with python** - [Coursera](https://www.coursera.org/learn/data-analysis-with-python) - Github - Certificate
     * **Data Visualization in Python** - [Coursera](https://www.coursera.org/learn/python-for-data-visualization) - Github - Certificate
     * **Machine Learning With Python** - [Coursera](https://www.coursera.org/learn/machine-learning-with-python) - Github - Certificate
