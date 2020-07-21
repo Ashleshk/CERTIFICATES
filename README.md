@@ -24,7 +24,7 @@ All Certificate Achieved apart from Academic Achivements
     * **Applied Social Network Analysis in Python** - <a target="_blank" href="https://www.coursera.org/learn/python-social-network-analysis">Coursera</a> - [Github](https://github.com/Ashleshk/Applied-Data-Science-with-Python/tree/master/Applied%20Social%20Network%20Analysis%20in%20Python) - <a target="_blank" href="https://coursera.org/share/9591199133f5fc64b32d92cc0d432504">Certificate</a>
     * **Specilization Applied Data Science with Python** - <a target="_blank" href="https://www.coursera.org/specializations/data-science-python">Coursera</a> - [Github Repository](https://github.com/Ashleshk/Applied-Data-Science-with-Python) - <a target="_blank" href="https://coursera.org/share/5aa514a6ed4f73641d49ae09e7d282f5">Certificate</a>
  * **IBM-Data-Science-Specialization - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)**
-    * **What is Data Science** - [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science) - Github - Certificate
+    * **What is Data Science** - [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science) - Github - [Certificate](https://github.com/Ashleshk/CERTIFICATES/blob/master/IBM-Data-Science-Specialization/Certificate-1%20What%20is%20Data%20Science.pdf)
     * **Tools for Data Science** - [Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science) - Github - Certificate
 
 
