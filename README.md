@@ -31,7 +31,7 @@ All Certificate Achieved apart from Academic Achivements
     * **DataBases & SQL for Python** - [Coursera](https://www.coursera.org/learn/sql-data-science) - Github - Certificate
     * **Data Analysis with python** - [Coursera](https://www.coursera.org/learn/data-analysis-with-python) - Github - Certificate
     * **Data Visualization in Python** - [Coursera](https://www.coursera.org/learn/python-for-data-visualization) - Github - Certificate
-    * **Machine Learning With Python** - Coursera - Github - Certificate
+    * **Machine Learning With Python** - [Coursera](https://www.coursera.org/learn/machine-learning-with-python) - Github - Certificate
     * **Applied Data Science Capstone** - Coursera - Github - Certificate
 
 
