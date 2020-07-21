@@ -26,6 +26,7 @@ All Certificate Achieved apart from Academic Achivements
  * **IBM-Data-Science-Specialization - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)**
     * **What is Data Science** - [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-1%20What%20is%20Data%20Science) - [Certificate](https://github.com/Ashleshk/CERTIFICATES/blob/master/IBM-Data-Science-Specialization/Certificate-1%20What%20is%20Data%20Science.pdf)
     * **Tools for Data Science** - [Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science) - Github - Certificate
+    * **Data Science Methodology** - Coursera - Github - Certificate
 
 
 ## Programming language
