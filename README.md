@@ -25,6 +25,7 @@ All Certificate Achieved apart from Academic Achivements
     * **Specilization Applied Data Science with Python** - <a target="_blank" href="https://www.coursera.org/specializations/data-science-python">Coursera</a> - [Github Repository](https://github.com/Ashleshk/Applied-Data-Science-with-Python) - <a target="_blank" href="https://coursera.org/share/5aa514a6ed4f73641d49ae09e7d282f5">Certificate</a>
  * **IBM-Data-Science-Specialization - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)**
     * **What is Data Science** - [Coursera](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science) - Github - Certificate
+    * **Tools for Data Science** - [Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science) - Github - Certificate
 
 
 ## Programming language
