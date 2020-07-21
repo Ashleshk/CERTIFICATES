@@ -28,7 +28,7 @@ All Certificate Achieved apart from Academic Achivements
     * **Tools for Data Science** - [Coursera](https://www.coursera.org/learn/open-source-tools-for-data-science) - Github - Certificate
     * **Data Science Methodology** - [Coursera](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science) - Github - Certificate
     * **Python for Data Science and AI** - [Coursera](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science) - Github - Certificate
-    * **DataBases & SQL for Python** - Coursera - Github - Certificate
+    * **DataBases & SQL for Python** - [Coursera](https://www.coursera.org/learn/sql-data-science) - Github - Certificate
     * **Data Analysis with python** - Coursera - Github - Certificate
     * **Data Visualization in Python** - Coursera - Github - Certificate
     * **Machine Learning With Python** - Coursera - Github - Certificate
