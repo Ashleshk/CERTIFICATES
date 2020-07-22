@@ -32,7 +32,7 @@ All Certificate Achieved apart from Academic Achivements
     * **Data Analysis with python** - [Coursera](https://www.coursera.org/learn/data-analysis-with-python) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-6%20Data%20Analysis%20with%20python) - Certificate
     * **Data Visualization in Python** - [Coursera](https://www.coursera.org/learn/python-for-data-visualization) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-7%20Data%20Visualization%20in%20Python) - Certificate
     * **Machine Learning With Python** - [Coursera](https://www.coursera.org/learn/machine-learning-with-python) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-8%20Machine%20Learning%20With%20Python) - Certificate
-    * **Applied Data Science Capstone** - [Coursera](https://www.coursera.org/learn/applied-data-science-capstone) - Github - Certificate
+    * **Applied Data Science Capstone** - [Coursera](https://www.coursera.org/learn/applied-data-science-capstone) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-9%20Applied%20Data%20Science%20Capstone) - Certificate
 
 
 ## Programming language
