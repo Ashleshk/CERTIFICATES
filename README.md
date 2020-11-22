@@ -90,6 +90,11 @@ All Certificate Achieved apart from Academic Achivements
 1. JAVA LEVEL -1      
 2. JAVA LEVEL -2  
 
+## HackerRank Certificate
+1. C Certificate - [Basic](https://github.com/Ashleshk/CERTIFICATES/blob/master/HackerRank%20Coding%20Certificates/C%20Basic.png) - [Intermediate](https://github.com/Ashleshk/CERTIFICATES/blob/master/HackerRank%20Coding%20Certificates/C-Intermediate.png) - [Advanced](https://github.com/Ashleshk/CERTIFICATES/blob/master/HackerRank%20Coding%20Certificates/C%20Advanced.png)
+2. C++ Certificate - [Basic](https://github.com/Ashleshk/CERTIFICATES/blob/master/HackerRank%20Coding%20Certificates/C%2B%2B%20basics.png) - [Intermediate](https://github.com/Ashleshk/CERTIFICATES/blob/master/HackerRank%20Coding%20Certificates/C%2B%2B%20Intermediate.png)
+3. Problem Solving - [Basic](https://github.com/Ashleshk/CERTIFICATES/blob/master/HackerRank%20Coding%20Certificates/Problem%20Solving%20Basic.png)
+
 ## NPTEL
 1. Programming in C++                                                                 
 2. Cloud Computing And Distributed Systems    
