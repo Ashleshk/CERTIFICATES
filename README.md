@@ -34,6 +34,9 @@ All Certificate Achieved apart from Academic Achivements
     * **Machine Learning With Python** - [Coursera](https://www.coursera.org/learn/machine-learning-with-python) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-8%20Machine%20Learning%20With%20Python) - [Certificate](https://github.com/Ashleshk/CERTIFICATES/blob/master/IBM-Data-Science-Specialization/Certificate-8%20Machine%20Learning%20with%20Python.pdf)
     * **Applied Data Science Capstone** - [Coursera](https://www.coursera.org/learn/applied-data-science-capstone) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-9%20Applied%20Data%20Science%20Capstone) - [Certificate](https://github.com/Ashleshk/CERTIFICATES/blob/master/IBM-Data-Science-Specialization/Certificate-9%20Applied%20Data%20Science%20Capstone.pdf)
 
+## AWS Training And Certification
+* **AWS Partner: Accreditation (Business) (Digital)** -[Certificate]()
+
 
 ## Programming language
 * **Python Programming Language**
