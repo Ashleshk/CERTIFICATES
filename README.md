@@ -35,8 +35,9 @@ All Certificate Achieved apart from Academic Achivements
     * **Applied Data Science Capstone** - [Coursera](https://www.coursera.org/learn/applied-data-science-capstone) - [Github](https://github.com/Ashleshk/IBM-Data-Science-Specialization-Coursera/tree/master/Course-9%20Applied%20Data%20Science%20Capstone) - [Certificate](https://github.com/Ashleshk/CERTIFICATES/blob/master/IBM-Data-Science-Specialization/Certificate-9%20Applied%20Data%20Science%20Capstone.pdf)
 
 ## AWS Training And Certification
-* **AWS Partner: Accreditation (Business) (Digital)** -[Certificate]()
-
+* **AWS Partner: Accreditation (Business) (Digital)** - [Certificate]()
+* **AWS Partner: Accreditation (Technical)** - [Certificate]()
+* **AWS Partner: Cloud Economics Accreditation** - [Certificate]()
 
 ## Programming language
 * **Python Programming Language**
